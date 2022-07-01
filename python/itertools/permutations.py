@@ -1,10 +1,10 @@
 '''
 Task
-You are given a string .
-Your task is to print all possible permutations of size  of the string in lexicographic sorted order.
+You are given a string S.
+Your task is to print all possible permutations of size k of the string in lexicographic sorted order.
 
 Input Format
-A single line containing the space separated string  and the integer value .
+A single line containing the space separated string S and the integer value k.
 
 Constraints
 0 < k <= len(S)
